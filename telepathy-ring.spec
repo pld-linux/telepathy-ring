@@ -5,9 +5,9 @@ Version:	2.1.3
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
-Source0:	http://telepathy.freedesktop.org/releases/telepathy-ring/%{name}-%{version}.tar.gz
+Source0:	https://telepathy.freedesktop.org/releases/telepathy-ring/%{name}-%{version}.tar.gz
 # Source0-md5:	292d132ca62051398e8087d3721dedbb
-URL:		http://telepathy.freedesktop.org/wiki/
+URL:		https://telepathy.freedesktop.org/
 BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake >= 1:1.9
 BuildRequires:	check-devel >= 0.9.4
